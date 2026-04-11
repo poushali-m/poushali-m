@@ -52,6 +52,9 @@ home labs, and CTF challenges — and I document everything so others can learn 
 ![Poushali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poushali-m&show_icons=true&theme=dark&hide_border=true)
 
 ---
+- ✈️ Avid traveller — curiosity and adaptability in and out of the workplace
+- 🤝 Passionate about charity and giving back to the community
+---
 
 ## 🤝 Connect With Me
 
