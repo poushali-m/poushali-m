@@ -8,15 +8,18 @@
 
 ## About Me
 
-I'm a cyber security graduate with hands-on experience in security assessments, 
-incident response, Azure identity management, and machine learning for insider 
-threat detection. I built my skills through real internship work, self-directed 
-home labs, and CTF challenges — and I document everything so others can learn too.
+I'm a cyber security graduate with hands-on experience in security assessments,
+incident response, Azure identity management, and machine learning for insider
+threat detection. I build and document everything — from SOC labs to CTF
+write-ups — so my work speaks for itself.
 
 - 🔭 Currently working on: Hack The Box machines & expanding my SOC lab
 - 🌱 Currently learning: Advanced threat detection & SIEM techniques
 - 💬 Ask me about: ISO 27001, incident response, log analysis, Python for security
-- 📫 Reach me at: poushali.majumder.uk@gmail.com
+- ✍️ I write plain English security articles for business audiences
+- ✈️ Avid traveller — curiosity and adaptability in and out of the workplace
+- 🤝 Passionate about charity and giving back to the community
+- 📫 Reach me: poushali.majumder.uk@gmail.com
 - 🌐 Portfolio: [poushali-m.github.io](https://poushali-m.github.io)
 
 ---
@@ -31,6 +34,8 @@ home labs, and CTF challenges — and I document everything so others can learn 
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0052CC?style=flat&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E31837?style=flat&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logoColor=white)
 
 ---
 
@@ -45,15 +50,6 @@ home labs, and CTF challenges — and I document everything so others can learn 
 | [ISO 27001 Framework](https://github.com/poushali-m/iso27001-governance-framework) | Full ISMS governance framework aligned to ISO 27001:2022 Clauses 5.2 & 5.3 |
 | [CTF Write-ups](https://github.com/poushali-m/ctf-writeups) | Documented penetration testing challenges with full attack chains |
 
----
-
-## 📊 GitHub Stats
-
-![Poushali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poushali-m&show_icons=true&theme=dark&hide_border=true)
-
----
-- ✈️ Avid traveller — curiosity and adaptability in and out of the workplace
-- 🤝 Passionate about charity and giving back to the community
 ---
 
 ## 🤝 Connect With Me
