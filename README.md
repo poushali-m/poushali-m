@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:557C94&height=200&section=header&text=Poushali%20Majumder&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Cyber%20Security%20Analyst%20%7C%20Threat%20Detection%20%7C%20GRC&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=557C94&center=true&vCenter=true&width=600&lines=🛡️+Aspiring+Cyber+Security+Analyst;🔍+Threat+Detection+%26+Incident+Response;📊+GRC+%7C+ISO+27001+%7C+MITRE+ATT%26CK;🐍+Python+for+Security+Automation;🎯+First-Class+Cyber+Security+Graduate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=557C94&center=true&vCenter=true&width=800&lines=🛡️+Aspiring+Cyber+Security+Analyst;🔍+Threat+Detection+%26+Incident+Response;📊+GRC+%7C+ISO+27001+%7C+MITRE+ATT%26CK;🐍+Python+for+Security+Automation;🎯+First-Class+Cyber+Security+Graduate" alt="Typing SVG" />
 
 <br/>
 
@@ -86,9 +86,10 @@ poushali = {
 | 🔒 Project | 💡 What It Does | 🛠️ Stack |
 |---|---|---|
 | [🤖 Insider Threat Detection](https://github.com/poushali-m/insider-threat-detection) | ML-based behavioural risk scoring for healthcare | Python · scikit-learn · Streamlit |
+| [🎣 Phishing Email Analyser](https://github.com/poushali-m/phishing-email-analyser) | Analyses .eml files for phishing indicators & MITRE mapping | Python · email · argparse |
 | [🖥️ SOC Threat Detection Lab](https://github.com/poushali-m/soc-threat-detection-lab) | SSH brute-force sim, log analysis & UFW containment | Linux · Bash · UFW |
 | [🪟 Windows SOC Investigation](https://github.com/poushali-m/windows-soc-investigation-lab) | Event ID 4625 brute-force pattern detection | PowerShell · Windows Event Logs |
-| [🔍 Vulnerability Assessment Lab](https://github.com/poushali-m/vulnerability-assessment-lab) | Nmap-based assessment with risk analysis & remediation | Nmap · Manual Analysis |
+| [🐍 Python Security Scripts](https://github.com/poushali-m/python-security-scripts) | Port scanner, brute-force detector, file integrity checker | Python |
 | [📋 ISO 27001 Framework](https://github.com/poushali-m/iso27001-governance-framework) | Full ISMS framework aligned to ISO 27001:2022 | GRC · Policy Writing |
 | [🚩 CTF Write-ups](https://github.com/poushali-m/ctf-writeups) | Documented penetration testing with full attack chains | Various |
 
@@ -108,16 +109,6 @@ poushali = {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=poushali-m&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=poushali-m&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
