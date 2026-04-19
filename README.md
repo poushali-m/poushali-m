@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:557C94&height=200&section=header&text=Poushali%20Majumder&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:557C94&height=200&section=header&text=Poushali%20Majumder&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Cyber%20Security%20Analyst%20%7C%20Threat%20Detection%20%7C%20GRC&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=557C94&center=true&vCenter=true&width=600&lines=🛡️+Aspiring+SOC+Analyst;🔍+Threat+Detection+%26+Incident+Response;📊+GRC+%7C+ISO+27001+%7C+MITRE+ATT%26CK;🐍+Python+for+Security+Automation;🎯+First-Class+Cyber+Security+Graduate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=557C94&center=true&vCenter=true&width=600&lines=🛡️+Aspiring+Cyber+Security+Analyst;🔍+Threat+Detection+%26+Incident+Response;📊+GRC+%7C+ISO+27001+%7C+MITRE+ATT%26CK;🐍+Python+for+Security+Automation;🎯+First-Class+Cyber+Security+Graduate" alt="Typing SVG" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ```python
 poushali = {
-    "role"      : "Aspiring SOC Analyst",
+    "role"      : "Aspiring Cyber Security Analyst",
     "degree"    : "First-Class BSc Cyber Security — University of West London",
     "location"  : "London, UK 🇬🇧",
     "focus"     : ["Threat Detection", "Incident Response", "GRC"],
