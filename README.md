@@ -21,12 +21,10 @@
 
 ```python
 poushali = {
-    "role"      : "Aspiring Cyber Security Analyst",
     "degree"    : "First-Class BSc Cyber Security — University of West London",
     "location"  : "London, UK 🇬🇧",
-    "focus"     : ["Threat Detection", "Incident Response", "GRC"],
+    "focus"     : ["IT Support", "Incident Response", "GRC"],
     "currently" : "Hacking HTB machines & building SOC labs",
-    "fun_fact"  : "I write plain English security articles for business audiences ✍️"
 }
 ```
 
